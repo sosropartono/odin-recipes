@@ -1,0 +1,14 @@
+.ainsley{
+    height: 200px;
+    width: 200px;
+}
+
+.center{
+    text-align: center;
+    align-content: center;
+    list-style-position: inside;
+}
+
+body{
+    background-color: aliceblue;
+}
